@@ -1,4 +1,4 @@
-package de.androidcrypto.nfcndefexample;
+package de.androidcrypto.nfcndefexampleencrypted;
 
 import android.content.Context;
 
